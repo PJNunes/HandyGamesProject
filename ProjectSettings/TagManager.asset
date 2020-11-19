@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Base
+  - Terrain
+  - Character
+  - RampE
+  - RampW
+  - Destructor
+  - GameManager
+  - BulletCounter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Base
+  - Terrain0
+  - Terrain1
+  - Terrain2
+  - Terrain3
+  - Terrain4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base
+    uniqueID: 254030737
+    locked: 0
+  - name: Terrain4
+    uniqueID: 386155167
+    locked: 0
+  - name: Ramp4
+    uniqueID: 3527407175
+    locked: 0
+  - name: Char4
+    uniqueID: 970474235
+    locked: 0
+  - name: Terrain3
+    uniqueID: 750908333
+    locked: 0
+  - name: Ramp3
+    uniqueID: 2857423255
+    locked: 0
+  - name: Char3
+    uniqueID: 3511272591
+    locked: 0
+  - name: Terrain2
+    uniqueID: 3859123095
+    locked: 0
+  - name: Ramp2
+    uniqueID: 3240690067
+    locked: 0
+  - name: Char2
+    uniqueID: 4205255699
+    locked: 0
+  - name: Terrain1
+    uniqueID: 550187949
+    locked: 0
+  - name: Ramp1
+    uniqueID: 3681261897
+    locked: 0
+  - name: Char1
+    uniqueID: 3652207817
+    locked: 0
+  - name: Terrain0_2
+    uniqueID: 2472160577
+    locked: 0
+  - name: Terrain0
+    uniqueID: 833996463
+    locked: 0
+  - name: Ramp0
+    uniqueID: 3454345393
+    locked: 0
+  - name: Char0
+    uniqueID: 228069701
+    locked: 0
+  - name: Info
+    uniqueID: 3491007205
+    locked: 0
